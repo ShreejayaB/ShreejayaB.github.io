@@ -1,5 +1,5 @@
 ---
-title: Practicum Medium Post
+title: Practicum at Manifold AI - Medium Post
 author: Shreejaya
 layout: post
 ---
