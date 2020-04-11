@@ -6,17 +6,20 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I love reading books! Here is a list of my favourite reads:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. Douglas Adams: *The Hitchhiker's Guide to the Galaxy*
+2. Harper Lee: *To Kill a Mockingbird*
+3. Markus Zusak: *The Book Thief*
+4. Manu Joseph: *The Illicit Happiness of Other People*
+5. Stephen J. Dubner and Steven Levitt: *Freakonomics*
+6. Mark Haddon: *The Curious Incident of the Dog in the Night-Time*
+7. Richard Feynman: *Surely You're Joking, Mr. Feynman!*
+8. Susan Cain: *Quiet: The Power of Introverts in a World That Can't Stop Talking*
+9. Khaled Hosseini: *A Thousand Splendid Suns*
+10. Ayn Rand: *Atlas Shrugged, The Fountainhead*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+Recent reads:
+2020:
+1. Jhumpa Lahiri: The Namesake 
+
