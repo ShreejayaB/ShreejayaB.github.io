@@ -8,4 +8,4 @@ As part of my Master's Program, we work for 9 months at a practicum company. My 
 I was interviewed about my experience at Manofild by my school's social media team. 
 [Click here to read my interview on Medium](https://medium.com/usf-msds/practicum-pride-manifold-4baa4b3f86d1)
 
-![Working at Manifold AI](../assets/images/manifold.png)
+
